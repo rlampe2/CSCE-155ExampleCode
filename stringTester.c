@@ -6,6 +6,10 @@
   *
   * This file can be modified and turned in (it is only part of the required testing)
   *
+  *
+  * HERE IS HOW YOU CAN COMPILE AFTER YOU'VE WRITTEN YOUR FUNCTIONS:
+  * gcc -o stringProgramName stringTester.c string_utils.c
+  * (Then to run, you would type ./stringProgramName)
   */
 #include<stdlib.h>
 #include<stdio.h>
