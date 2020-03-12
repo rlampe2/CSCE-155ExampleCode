@@ -12,7 +12,7 @@
 #include<string.h>
 #include"string_utils.h"
 
-int main(int argc, char const *argv[]) {
+int main(void) {
   char testString[] = {"Alphabet Soup"};
   char testString2[] = {"Who? Did you say Robyn??? With a Y?"};
   char testString3[] = {"Dr. Burke is my hero!"};
