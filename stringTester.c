@@ -15,7 +15,7 @@
 int main(void) {
   char testString[] = {"Alphabet Soup"};
   char testString2[] = {"Who? Did you say Robyn??? With a Y?"};
-  char testString3[] = {"Dr. Burke is my hero!"};
+  char testString3[] = {"Dr. Bourke is my hero!"};
   int i;
 
   //Testing replaceChar function
